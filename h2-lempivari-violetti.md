@@ -105,9 +105,10 @@ Ja johan rupesi netgreppi kirjoittamaan:
 
 <img width="765" height="431" alt="image" src="https://github.com/user-attachments/assets/21496c4a-0c7a-476f-a4e2-f049815201cb" />
 
+54 osumaa:
+
 <img width="228" height="23" alt="image" src="https://github.com/user-attachments/assets/83f825a5-a885-4605-b223-fe20cbf7bc0e" />
 
-54 osumaa.
 
 
 ## g) Salainen agentti
