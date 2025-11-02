@@ -168,6 +168,8 @@ https://www.threatintel.academy/wp-content/uploads/2020/07/diamond-model.pdf C.B
 
 https://httpd.apache.org/docs/2.4/logs.html Apachen käyttöohjeet, luettu 2.11.2025
 
+https://nmap.org/book/man-misc-options.html Nmap käyttöohjeet, luettu 2.11.2025
+
 
 
 
