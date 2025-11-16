@@ -9,8 +9,8 @@ Kuvankaappauksia en tähän ota, koska dokumentointi on kielletty. Pääsin teht
 
 ## b) Mitä opin, mikä yllätti?
 
-Opin käyttämään tiedustelutyökaluja, lukemaan ajatuksella käyttöohjeita, repimään hiuksia päästä. Yllätyin kuitenkin työkalujen käytön helppoudesta, kun huomasin omat kirjoitusvirheeni. Suurin tavoitteeni oli
-ymmärtää, mitä olen tekemässä, jotta voin myöhemmin toistaa harjoituksen ilman läpipeluuohjetta. Wiresharkilla skannatessa käyttäjät ja salasanat löytyi plaintextinä, joka järkytti. 
+Opin vaihtamaan oman MAC-osoitteen, liittymään vieraaseen verkkoon, kaappaamaan verkosta käyttäjänimen ja salasanan, käyttämään eri työkaluja. Yllätyin kuitenkin työkalujen käytön helppoudesta, kun huomasin omat kirjoitusvirheeni. Tavoitteeni oli
+ymmärtää, mitä olen tekemässä, jotta voin myöhemmin toistaa harjoituksen ilman läpipeluuohjetta. 
 
 ## c) Oma suhtautuminen Wlanin turvallisuuteen
 
