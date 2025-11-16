@@ -2,7 +2,7 @@
 
 ## a) Tutustu wifi challenge lab 2.1 harjoitus ympäristöön
 
-Tutustuin, luin käyttöohjeet sekä nettisivulta. Kuutisen tuntia paukuttelin läpipeluuohjetta välillä vilkaisten. Mielenkiintoinen tehtävä, ehdottomasti teen loppuun ensimmäisenä vapaapäivänä kun ajatusta ei keskeytä 
+Tutustuin, luin käyttöohjeet sekä nettisivut (linkit lopussa). Kuutisen tuntia paukuttelin läpipeluuohjetta välillä vilkaisten. Mielenkiintoinen tehtävä, ehdottomasti teen loppuun ensimmäisenä vapaapäivänä kun ajatusta ei keskeytä 
 "hei äiti, tiedätkö että...?" (ja oletusarvoisesti retorinen kysymys liittyy pokemoneihin).
 
 Kuvankaappauksia en tähän ota, koska dokumentointi on kielletty. Pääsin tehtävään 14.
