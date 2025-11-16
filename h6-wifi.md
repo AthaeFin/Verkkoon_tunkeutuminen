@@ -7,6 +7,10 @@ Tutustuin, luin käyttöohjeet sekä nettisivut (linkit lopussa). Kuutisen tunti
 
 Kuvankaappauksia en tähän ota, koska dokumentointi on kielletty. Pääsin tehtävään 14.
 
+"Sharing, publishing, or distributing walkthroughs, solutions, or any detailed explanations of this lab is strictly forbidden unless you have received explicit written permission from the project maintainers. This includes all formats such as text, video, or interactive content. Violations may result in revocation of access and other legal actions.
+
+Please respect the integrity of the lab and refrain from unauthorized dissemination of its content." Löytyy README-osiosta.
+
 ## b) Mitä opin, mikä yllätti?
 
 Opin vaihtamaan oman MAC-osoitteen, liittymään vieraaseen verkkoon, kaappaamaan verkosta käyttäjänimen ja salasanan, käyttämään eri työkaluja. Yllätyin kuitenkin työkalujen käytön helppoudesta, kun huomasin omat kirjoitusvirheeni. Tavoitteeni oli
